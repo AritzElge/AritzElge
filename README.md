@@ -1,5 +1,5 @@
 # Hi, I'm AritzElge 🛠️🛰️
-### Industrial Electronics & Automation Engineer | Critical & Deterministic Embedded Systems Specialist
+### Industrial Electronics & Automation Engineer | Critical & Deterministic Embedded Systems Specialist | Firmware Hardening & Safety-Critical Design
 
 I design and build solutions where **determinism**, **safety**, and **reliability** are non-negotiable. My engineering approach bridges the gap between robust analog physics and high-performance digital logic, working natively in Linux/POSIX environments for mission-critical applications.
 
@@ -7,7 +7,7 @@ I design and build solutions where **determinism**, **safety**, and **reliabilit
 
 ## 🔬 Engineering Laboratory (2026 Setup)
 
-![Laboratory Setup](assets/your-lab-photo.jpg)
+![Laboratory Setup](assets/lab-photo.jpg)
 *Current workstation optimized for low-level development, high-speed signal validation, and deterministic benchmarking.*
 
 ### Laboratory Capabilities:
@@ -21,15 +21,15 @@ I design and build solutions where **determinism**, **safety**, and **reliabilit
 
 ## 🚀 Featured Projects
 
-### 🛸 ATOP (Flight Control Micro-kernel)
+### 🛸 [ATOP](https://github.com/AritzElge/ATOP)
 A high-reliability micro-kernel library designed for flight control loops and deterministic execution.
 - **Safety & Standards:** Developed following **NASA** and **MISRA-C** guidelines (including formally documented deviations for function pointer usage).
 - **Validation Framework:** Architected for **SITL (Software-In-The-Loop)** and **HITL (Hardware-In-The-Loop)** testing.
 - **Design Pattern:** Utilizes function pointers for hardware abstraction and dependency injection, enabling rigorous unit testing and modularity.
 - **Interoperability:** Native **C** implementation with `extern "C"` for seamless **C++** integration.
 
-### 🏠 ELI_galileo (Embedded Linux Home Automation Master)
-A POSIX-compliant master system for home automation running on legacy **Intel Galileo Gen2** hardware.
+### 🏠 [ELI_galileo](https://github.com/AritzElge/ELI_galileo)
+A POSIX-compliant master Linux Embedded system for home automation running on legacy **Intel Galileo Gen2** hardware.
 - **Architecture:** Hybrid C, Shell Scripting, and Python (actively refactoring Python logic to C for resource optimization).
 - **Reliability:** Implements **Modbus** protocol for industrial-grade communication over Linux-embedded environments.
 
@@ -62,4 +62,4 @@ My design decisions are backed by industry-standard literature:
 ---
 
 📫 **Interested in NewSpace or Critical Systems?** 
-[Link to your LinkedIn or Email]
+[Link to my LinkedIn](https://www.linkedin.com/in/aritzelge/)
