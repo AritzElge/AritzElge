@@ -7,7 +7,7 @@ I design and build solutions where **determinism**, **safety**, and **reliabilit
 
 ## 🔬 Engineering Laboratory (2026 Setup)
 
-![Laboratory Setup](assets/lab-photo.jpg)
+![Laboratory Setup](./assets/lab_photo.jpg)
 *Current workstation optimized for low-level development, high-speed signal validation, and deterministic benchmarking.*
 
 ### Laboratory Capabilities:
