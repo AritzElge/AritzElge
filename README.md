@@ -61,5 +61,10 @@ My design decisions are backed by industry-standard literature:
 
 ---
 
-📫 **Interested in NewSpace or Critical Systems?** 
-[Link to my LinkedIn](https://www.linkedin.com/in/aritzelge/)
+📫 **Contact info** 
+
+- Email: aelguezabal010@gmail.com
+
+- GitHub: [https://github.com/AritzElge](https://github.com/AritzElge)
+
+- LinkedIn: [Link to my LinkedIn](https://www.linkedin.com/in/aritzelge/)
