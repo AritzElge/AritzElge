@@ -6,7 +6,7 @@ I design and build solutions where **determinism**, **safety**, and **reliabilit
 ## 🔬 Engineering Laboratory (2026 Setup)
 
 ![Laboratory Setup](./assets/lab_photo.jpg)
-*Current workstation optimized for low-level development, high-speed signal validation, and deterministic benchmarking.*
+*Current workstation optimized for low-level development, high-speed signal validation, and deterministic benchmarking (feat. **Kita** as the system 'validation' assistant).*
 
 ### Laboratory Capabilities:
 - **Precision Soldering:** **JBC** Soldering Station (Industry standard for mission-critical joints).
