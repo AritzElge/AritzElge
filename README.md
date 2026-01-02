@@ -3,8 +3,6 @@
 
 I design and build solutions where **determinism**, **safety**, and **reliability** are non-negotiable. My engineering approach bridges the gap between robust analog physics and high-performance digital logic, working natively in Linux/POSIX environments for mission-critical applications.
 
----
-
 ## 🔬 Engineering Laboratory (2026 Setup)
 
 ![Laboratory Setup](./assets/lab_photo.jpg)
@@ -16,8 +14,6 @@ I design and build solutions where **determinism**, **safety**, and **reliabilit
 - **Signal Analysis:** **Hameg HM203** Analog Oscilloscope (Real-time transient capture without digital aliasing).
 - **Programmable Logic:** Custom Logic Analyzer based on **Cyclone IV FPGA** (High-speed hardware-level debugging).
 - **Safety & Integrity:** Full **ESD-safe** environment and galvanic USB isolation for host PC protection.
-
----
 
 ## 🚀 Featured Projects
 
@@ -33,8 +29,6 @@ A POSIX-compliant master Linux Embedded system for home automation running on le
 - **Architecture:** Hybrid C, Shell Scripting, and Python (actively refactoring Python logic to C for resource optimization).
 - **Reliability:** Implements **Modbus** protocol for industrial-grade communication over Linux-embedded environments.
 
----
-
 ## 🛠️ Technical Stack & Expertise
 
 - **Safety-Critical:** MISRA-C compliance, NASA software standards, Hard Real-Time determinism.
@@ -43,23 +37,17 @@ A POSIX-compliant master Linux Embedded system for home automation running on le
 - **OS/Kernel:** Native **Ubuntu** development, advanced **Linux Programming Interface (POSIX)**.
 - **Languages:** C (Primary), Python (Automation/Refactoring), VHDL, Shell Scripting.
 
----
-
 ## 📚 Core Reference Bookshelf
 My design decisions are backed by industry-standard literature:
 - *The Linux Programming Interface* (M. Kerrisk) – POSIX and Kernel interaction.
 - *Better Embedded System Software* (Philip Koopman) – Software safety and reliability.
 - *Practical C Programming* (Drappier & Mauffrey) – Robust firmware design.
 
----
-
 ## 📈 Roadmap for 2026
 - [ ] Release **ATOP** v1.0.0.
 - [ ] Reach v1.0.0 in **ELI_galileo**.
 - [ ] **VHDL Mastery:** Complete the development of the **FPGA_Logic_Analyzer_Lite** for real-time signal capture.
 - [ ] Deploy 6-DOF robotic control on **STM32MP1** (future Stäubli RX60 integration).
-
----
 
 📫 **Contact info** 
 
